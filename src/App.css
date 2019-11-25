@@ -1,0 +1,16 @@
+.App-link {
+  color: #09d3ac;
+}
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a,
+.link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  display: block;
+  margin-top: 20px;
+}
